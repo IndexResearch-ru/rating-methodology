@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.0 - 2026-09-16
+
+- добавлена обязательная калибровка до freeze;
+- добавлен Construct Validity Review;
+- добавлен Strategic Fit Gate и проверка стратегического риска публикации;
+- финальный расчет отделен от Publication Decision Gate;
+- закреплено право HOLD / CHANGE_FORMAT / WITHDRAW без изменения frozen scores;
+- усилены правила founder-linked исследований и cross-surface consistency;
+- запрещено использовать public default branch для рабочих score-черновиков до freeze.
+
 ## 1.0.0 - 2026-09-16
 
 - создана базовая универсальная методология IndexResearch;
