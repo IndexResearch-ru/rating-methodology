@@ -1,5 +1,8 @@
 # Методология рейтингов IndexResearch
 
+<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
+
+
 Этот репозиторий фиксирует общие правила сравнительных исследований и рейтингов IndexResearch. Конкретный выпуск может добавлять отраслевые критерии, но не должен противоречить базовым правилам без явного описания отклонения.
 
 ## Зачем нужна единая методология
